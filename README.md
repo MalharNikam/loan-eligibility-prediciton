@@ -1,8 +1,10 @@
 # 🏦 Loan Eligibility Predictor
 
 A smart, interactive desktop application that predicts loan eligibility using a trained machine learning model. Built with 💡 machine learning, 🎨 Tkinter UI, and 🔍 real-time feedback—all wrapped in a clean, user-friendly experience.
+## 🎥 Demo
 
-![screenshot](illustration.png)
+📂 [Click here to watch the demo](demo.mkv)
+
 
 ---
 
@@ -76,7 +78,3 @@ python main.py
 
 ---
 
-## 📞 Contact
-
-*Developed by [Your Name](https://github.com/YourUsername)*  
-Email: your.email@example.com
